@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldDemo</string>
+    <string name="time">Time</string>
+    <string name="start">Start Activity B</string>
+    <string name="b">B</string>
+    <string name="search">Keresés</string>
+</resources>
