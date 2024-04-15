@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="explicit_intent_test">Explicit Intent teszt</string>
+    <string name="search_intent_test">Keresés Intent teszt</string>
+    <string name="call_intent_test">Hívás Intent teszt</string>
+    <string name="waze_intent_test">Waze Intent test</string>
+    <string name="answer1">Válasz 1</string>
+    <string name="answer2">Válasz 2</string>
+</resources>
